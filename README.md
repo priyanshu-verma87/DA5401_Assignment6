@@ -71,9 +71,3 @@ Recommended Python environment:
 
 - Python 3.8+ (3.9/3.10 recommended)  
 - JupyterLab or Jupyter Notebook  
-
-### Required Python Packages  
-
-```bash
-pip install pandas numpy scikit-learn seaborn matplotlib
-```
